@@ -1,0 +1,24 @@
+.Sidebar {
+    width: 300px;
+    color: white;
+    background-color: #000;
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+}
+
+.Me {
+    font-size: 1.5em;
+    height: 40px;
+    text-align: center;
+    padding-left: 0px;
+}
+
+p {
+    font-size: 1.25em;
+    padding-left: 30px;
+}
+
+.Section {
+    font-size: 1.5em;
+    padding-left: 15px;
+}
