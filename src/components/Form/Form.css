@@ -3,10 +3,6 @@ input {
     margin: 0px 10px 10px 10px;
     padding: 15px 20px 10px 15px;
     border-radius: 10px;
-    width: inherit; 
+    width: calc(100% - 80px); 
     font-size: inherit;
-}
-
-.firm {
-    width: calc(100% - 40px);
 }
