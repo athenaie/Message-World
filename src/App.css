@@ -21,7 +21,6 @@
 
 .App-messages {
   display: flex;
-  flex-direction: column-reverse;
   overflow-y: scroll;
   flex-grow: 1;
 }
