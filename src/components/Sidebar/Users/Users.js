@@ -5,7 +5,7 @@ import './Users.css';
 class Users extends Component {
     render () {
         return this.props.users.map((user,index) => {
-            return <User className='User' name={user.name}/>
+            return <User className='User' name={user}/>
         });
     }
 }
